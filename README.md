@@ -3,7 +3,7 @@
 ## tools
 
 - [GPU-Z](https://www.techpowerup.com/gpuz/)
-- [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 - [Perfmonitor 2](https://www.cpuid.com/softwares/perfmonitor-2.html)
 - [NZXT Cam](https://camwebapp.com/)
@@ -53,7 +53,7 @@ CPU-Z is a freeware that gathers information on some of the main devices of your
 HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 The program handles the most common sensor chips, like ITE® IT87 series, most Winbond® ICs, and others. In addition, it can read modern CPUs on-die core thermal sensors, as well has hard drives temperature via S.M.A.R.T, and video card GPU temperature.
 
-![](img/hwmonitor_20190411_164032.png)
+![](img/hwmonitor_20190411_164032.jpg)
 
 - 硬件相关数据
 - 只能记录单帧数据
