@@ -11,6 +11,8 @@
 - [MSI afterburner](https://www.msi.com/page/afterburner)
 - [NVIDIA system monitor](https://www.nvidia.com/object/system_monitor.html) : outdated
 - [EVGA Precision](https://www.evga.com/precisionx1/) : not ok
+- Intel GPA: TBD
+- Procmon: TBD, for IO
 
 ## GPU-Z
 
